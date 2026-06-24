@@ -10,7 +10,7 @@
 
 [![Status](https://img.shields.io/badge/🔬%20STATUS-Work%20in%20Progress-FF6B6B?style=for-the-badge&labelColor=1a1a2e)](.)
 [![Method](https://img.shields.io/badge/📋%20METHOD-PRISMA--ScR-7C3AED?style=for-the-badge&labelColor=1a1a2e)](.)
-[![Anchor](https://img.shields.io/badge/⚕️%20ANCHOR-Alcohol%20Use%20Disorder-059669?style=for-the-badge&labelColor=1a1a2e)](.)
+[![Scope](https://img.shields.io/badge/⚕️%20SCOPE-Substance%20Use%20Disorder-059669?style=for-the-badge&labelColor=1a1a2e)](.)
 [![Evidence](https://img.shields.io/badge/📊%20EVIDENCE-Calibrated%20%26%20Labelled-0EA5E9?style=for-the-badge&labelColor=1a1a2e)](.)
 
 <br/>
@@ -107,7 +107,7 @@ Two distinct bodies of work offer potential tools:
 |:---|:---|:---|
 | **Review Type** | PRISMA-ScR Scoping Review | Maps a heterogeneous, emerging, cross-disciplinary field more honestly than a narrow systematic review |
 | **Synthesis Approach** | Separate-literatures synthesis | The AI × Music × SUD intersection is too thin to support a standalone review |
-| **Population Anchor** | Alcohol Use Disorder (AUD) | AUD carries the densest AI literature; broader SUD admitted and flagged |
+| **Population Scope** | Substance Use Disorder (SUD) | Full SUD scope; AUD is one part of it where the AI literature is densest, always noted |
 | **Output** | Proposed conceptual framework | The integrative framework — not empirical overlap — is the original contribution |
 | **Evidence Labelling** | Established · Emerging · Speculative | Applied to every key finding; not optional decoration |
 
