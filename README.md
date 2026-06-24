@@ -17,7 +17,7 @@
 
 > 🚧 **Not peer-reviewed.** Citations are being verified against primary sources. Do not cite as confirmed.
 
-> 💊 **Adjunct, not replacement.** Every tool here supplements professional clinical care — never substitutes it.
+> 💊 **Adjunct, not replacement.** Every tool here supplements professional clinical care — including FDA-approved medications (buprenorphine, naltrexone, methadone, acamprosate) and psychosocial treatment — never substitutes for them.
 
 </div>
 
@@ -31,10 +31,22 @@
 
 People in recovery from **Substance Use Disorder** face a landscape where professional treatment is essential but often insufficient — access is limited, support between sessions is sparse, and the emotional terrain of recovery is relentless.
 
-Two distinct bodies of work offer potential tools:
+Evidence-based SUD treatment rests on three interlocking pillars:
 
 ```
-🎼  MUSIC-BASED INTERVENTIONS          🧠  ARTIFICIAL INTELLIGENCE
+💊  MEDICATION                    🧠  PSYCHOSOCIAL TREATMENT        🤝  PEER & COMMUNITY SUPPORT
+    ─────────────────────             ──────────────────────────         ────────────────────────
+    Buprenorphine (OUD)               CBT · Motivational                 Mutual-help groups
+    Methadone (OUD)                   Enhancement Therapy                Recovery coaching
+    Naltrexone (OUD · AUD)            Contingency Management             Community networks
+    Acamprosate (AUD)                 12-step facilitation               Peer support workers
+    FDA-approved · evidence-based     Delivered by trained clinicians    Lived-experience led
+```
+
+This study examines two additional tools that can work **alongside** those pillars — never replacing them:
+
+```
+🎼  MUSIC-BASED INTERVENTIONS          🤖  ARTIFICIAL INTELLIGENCE
     ─────────────────────────              ──────────────────────────
     Decades of clinical evidence           Scalability & personalisation
     Emotional regulation                   Affect detection & adaptation
@@ -43,7 +55,7 @@ Two distinct bodies of work offer potential tools:
     Identity reconstruction                Just-in-time interventions
 ```
 
-> Neither literature has adequately spoken to the other. **This project maps both**, surfaces their intersections and contradictions, and proposes an integrative framework.
+> Neither literature has adequately spoken to the other. **This project maps both**, surfaces their intersections and contradictions, and proposes an integrative framework — always in relation to the established treatment base above.
 
 ---
 
@@ -168,7 +180,9 @@ The most useful framing: **Moniz-Lewis et al. (2025)** — real promise for equi
 
 ```
   💊  1 · ADJUNCT FRAMING
-       These tools supplement professional, evidence-based treatment.
+       These tools supplement professional, evidence-based treatment —
+       including FDA-approved medications (buprenorphine, naltrexone,
+       methadone, acamprosate) and psychosocial therapies.
        Nothing in this work encourages replacing clinical care with an app.
 
   🎵  2 · THE CRAVING-CUE PARADOX
