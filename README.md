@@ -17,7 +17,7 @@
 
 > 🚧 **Not peer-reviewed.** Citations are being verified against primary sources. Do not cite as confirmed.
 
-> 💊 **Adjunct, not replacement.** Every tool here supplements professional clinical care — including FDA-approved medications (buprenorphine, naltrexone, methadone, acamprosate) and psychosocial treatment — never substitutes for them.
+> 💊 **Potentiating, not replacing.** AI and music-based interventions are examined here for their potential to **enhance and extend the effect of FDA-approved medications** (buprenorphine, naltrexone, methadone, acamprosate) and psychosocial treatment — by addressing what medication alone cannot: emotional regulation, craving triggers, motivation, identity, and between-session support. They are never substitutes for clinical care.
 
 </div>
 
@@ -48,7 +48,7 @@
 
 </div>
 
-> 💡 **The 80% treatment gap** is the single most important number for this research. It is the space — between needing care and receiving it — that scalable, accessible adjunct tools like AI and music-based interventions are positioned to help address.
+> 💡 **The 80% treatment gap** is the single most important number for this research. It is the space — between needing care and receiving it — where AI and music-based interventions, working **alongside and in support of FDA-approved medications**, are positioned to extend reach, reinforce therapeutic effect, and sustain recovery between clinical contacts.
 
 ---
 
@@ -123,7 +123,7 @@
 
 </div>
 
-People in recovery from **Substance Use Disorder** face a landscape where professional treatment is essential but often insufficient — access is limited, support between sessions is sparse, and the emotional terrain of recovery is relentless.
+People in recovery from **Substance Use Disorder** face a landscape where professional treatment is essential but often insufficient alone — access is limited, support between sessions is sparse, and the emotional terrain of recovery extends far beyond what medication can reach.
 
 Evidence-based SUD treatment rests on three interlocking pillars:
 
@@ -137,19 +137,21 @@ Evidence-based SUD treatment rests on three interlocking pillars:
     FDA-approved · evidence-based     Delivered by trained clinicians    Lived-experience led
 ```
 
-This study examines two additional tools that can work **alongside** those pillars — never replacing them:
+**FDA-approved medications reduce craving, prevent withdrawal, and lower overdose risk — but they do not, on their own, rebuild emotional regulation, process trauma, restore identity, or sustain motivation across the months and years of recovery.** That is the gap this research addresses.
+
+This study examines how two additional tools can **potentiate and extend the effect of those medications** — working in the dimensions that pharmacotherapy cannot reach:
 
 ```
-🎼  MUSIC-BASED INTERVENTIONS          🤖  ARTIFICIAL INTELLIGENCE
-    ─────────────────────────              ──────────────────────────
-    Decades of clinical evidence           Scalability & personalisation
-    Emotional regulation                   Affect detection & adaptation
-    Craving response studies               Lapse-prediction models
-    Therapeutic engagement                 Around-the-clock availability
-    Identity reconstruction                Just-in-time interventions
+🎼  MUSIC-BASED INTERVENTIONS              🤖  ARTIFICIAL INTELLIGENCE
+    ─────────────────────────────────          ──────────────────────────────────
+    Addresses emotional regulation             Detects affect states in real time
+    Processes craving through engagement       Predicts lapse risk before it peaks
+    Rebuilds identity through creativity       Delivers support between sessions
+    Strengthens therapeutic alliance           Personalises intensity and timing
+    Activates reward pathways non-chemically   Scales access to underserved regions
 ```
 
-> Neither literature has adequately spoken to the other. **This project maps both**, surfaces their intersections and contradictions, and proposes an integrative framework — always in relation to the established treatment base above.
+> Neither literature has adequately spoken to the other — or to how they interact with the medication layer beneath them. **This project maps both**, surfaces their intersections and contradictions, and proposes an integrative framework that keeps FDA-approved treatment at its foundation.
 
 ---
 
@@ -273,11 +275,13 @@ The most useful framing: **Moniz-Lewis et al. (2025)** — real promise for equi
 <br/>
 
 ```
-  💊  1 · ADJUNCT FRAMING
-       These tools supplement professional, evidence-based treatment —
-       including FDA-approved medications (buprenorphine, naltrexone,
-       methadone, acamprosate) and psychosocial therapies.
-       Nothing in this work encourages replacing clinical care with an app.
+  💊  1 · POTENTIATING FRAMING
+       AI and music-based interventions are studied here as tools that
+       can enhance and extend the effect of FDA-approved medications
+       (buprenorphine, naltrexone, methadone, acamprosate) and
+       psychosocial therapies — addressing dimensions pharmacotherapy
+       alone cannot reach: emotion, identity, motivation, between-session
+       support. Nothing here encourages replacing medication with an app.
 
   🎵  2 · THE CRAVING-CUE PARADOX
        Music can trigger as well as soothe craving. Any music-based tool
