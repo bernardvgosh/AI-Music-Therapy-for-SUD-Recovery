@@ -25,6 +25,100 @@
 
 <div align="center">
 
+## 📊 &nbsp; T H E &nbsp; S C A L E &nbsp; O F &nbsp; T H E &nbsp; C R I S I S &nbsp; — &nbsp; U S A
+
+*All figures from official U.S. government sources: [SAMHSA NSDUH 2024](https://www.samhsa.gov/data/data-we-collect/nsduh-national-survey-drug-use-and-health/national-releases/2024) · [CDC NCHS 2024](https://www.cdc.gov/nchs/pressroom/releases/20250514.html) · [White House CEA 2025](https://www.whitehouse.gov/releases/2025/03/the-staggering-cost-of-the-illicit-opioid-epidemic-in-the-united-states/)*
+
+</div>
+
+### 🇺🇸 National Headline Numbers (2024)
+
+<div align="center">
+
+| 📌 Indicator | 📈 Figure | 📅 Source |
+|:---|:---:|:---|
+| Americans with a past-year SUD (age 12+) | **48.4 million** (16.8%) | SAMHSA NSDUH 2024 |
+| With Alcohol Use Disorder | **28.1 million** (9.7%) | SAMHSA NSDUH 2024 |
+| With Drug Use Disorder | **28.4 million** (9.8%) | SAMHSA NSDUH 2024 |
+| People with SUD who received **no treatment** | **~80%** | SAMHSA NSDUH 2024 |
+| Drug overdose deaths in 2024 | **79,384** | CDC NCHS 2024 |
+| Decrease in overdose deaths vs 2023 | **↓ 26.2%** | CDC NCHS 2024 |
+| Annual economic cost of SUD (crime, productivity, healthcare) | **$740 billion+** | NIDA / SAMHSA |
+| Estimated cost of opioid epidemic alone (2023) | **$2.7 trillion** (9.7% of GDP) | White House CEA 2025 |
+
+</div>
+
+> 💡 **The 80% treatment gap** is the single most important number for this research. It is the space — between needing care and receiving it — that scalable, accessible adjunct tools like AI and music-based interventions are positioned to help address.
+
+---
+
+### 🗺️ State-by-State Overdose Picture (CDC 2024 Data)
+
+<div align="center">
+
+| 🔴 Highest Burden States | Rate per 100k | 🟢 Largest Declines 2023→2024 | Decline |
+|:---|:---:|:---|:---:|
+| West Virginia | 81.9 *(2023 rate — highest in nation)* | West Virginia | ≥ 35% ↓ |
+| District of Columbia | 60.7 *(2023 rate)* | Ohio | ≥ 35% ↓ |
+| — | — | Michigan | ≥ 35% ↓ |
+| — | — | Louisiana | ≥ 35% ↓ |
+| — | — | Virginia | ≥ 35% ↓ |
+| — | — | New Hampshire | ≥ 35% ↓ |
+| — | — | Wisconsin | ≥ 35% ↓ |
+| 🟡 Lowest Burden States | Rate per 100k | ⚠️ States with Increases | Change |
+| Nebraska | 9.0 *(2023 rate — lowest in nation)* | South Dakota | Slight ↑ |
+| South Dakota | 11.2 *(2023 rate)* | Nevada | Slight ↑ |
+
+</div>
+
+> 📍 **What drives state variation?** Rural vs urban access to MOUD, state-level naloxone laws, opioid prescribing rates, fentanyl trafficking routes, and funding for harm reduction all play documented roles. No single state is "solved" — the 2024 improvements, while significant, still represent nearly 80,000 deaths in a single year.
+
+> 📊 Full interactive state maps: [SAMHSA State Prevalence Maps](https://www.samhsa.gov/data/report/2023-2024-nsduh-national-maps-prevalence-estimates-stat) · [CDC Stats of the States](https://www.cdc.gov/nchs/state-stats/deaths/drug-overdose.html)
+
+---
+
+### 📉 Trends Over Time
+
+```
+  DRUG OVERDOSE DEATHS — USA (CDC)
+  ───────────────────────────────────────────────────────────────
+  2017  ████████████████████░░░░░░░░░░░░░  ~70,000
+  2018  ████████████████████░░░░░░░░░░░░░  ~67,000
+  2019  ████████████████████░░░░░░░░░░░░░  ~70,000
+  2020  ████████████████████████████░░░░░  ~91,000   ← COVID surge
+  2021  █████████████████████████████████  ~106,699  ← Peak
+  2022  ████████████████████████████████░  ~107,500  ← Near-peak
+  2023  ████████████████████████████░░░░░  ~107,500  → 31.3 per 100k
+  2024  █████████████████████░░░░░░░░░░░░   79,384   → 23.1 per 100k ↓26%
+  ───────────────────────────────────────────────────────────────
+  Fentanyl drove 70%+ of peak deaths. The 2024 decline is real
+  and significant — but 79,384 deaths still exceeds every prior
+  year before 2020. The crisis is not over.
+```
+
+---
+
+### ⚠️ Future Issues & Emerging Threats
+
+<div align="center">
+
+| 🚨 Issue | 📋 Detail | 🔭 Outlook |
+|:---|:---|:---|
+| **Polysubstance use** | Fentanyl increasingly found mixed with stimulants (meth, cocaine) and benzodiazepines | Complicates treatment; naloxone alone may be insufficient |
+| **Treatment access gap** | 80% of people with SUD receive no treatment — workforce shortages, stigma, cost, geography | Widens without scalable adjunct tools; key driver for this research |
+| **Equity disparities** | Black and Indigenous Americans disproportionately affected; access to MOUD remains unequal | Digital tools risk widening gap if not designed for equity |
+| **Youth & adolescent SUD** | Drug use disorder rates rising among 18–25 age group | Prevention and early intervention urgently needed |
+| **Mental health comorbidity** | ~21.5 million Americans have co-occurring SUD and mental illness | Integrated care models remain under-resourced |
+| **Xylazine ("tranq") contamination** | Veterinary sedative in the drug supply; no reversal agent exists | Naloxone-resistant overdoses — an emerging harm reduction gap |
+| **AI & data risks** | Poorly validated AI tools entering the recovery space without clinical oversight | Core concern of this research — see RQ5 |
+| **Post-COVID mental health** | Pandemic-driven loneliness, unemployment, trauma amplified SUD risk | Long-tail effects still unfolding through the 2020s |
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🎵 &nbsp; W H A T &nbsp; T H I S &nbsp; I S &nbsp; A B O U T &nbsp; 🤖
 
 </div>
