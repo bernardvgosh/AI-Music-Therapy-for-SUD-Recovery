@@ -314,7 +314,7 @@ The most useful framing: **Moniz-Lewis et al. (2025)** — real promise for equi
   ┌──────────────────────────────────────────────────────────────────────┐
   │  🟠  PHASE 1 · Protocol & Supervisor Sign-Off      ◄ YOU ARE HERE   │
   ├──────────────────────────────────────────────────────────────────────┤
-  │  ⚠️  Verify Silverman et al. (2023) — top priority                   │
+  │  ✅  Silverman et al. (2023) — DOI verified; confirm page range      │
   │  ✅  Verify Ghetti (2022) and Moniz-Lewis (2025) against primary     │
   │  📋  Present protocol skeleton for supervisor sign-off               │
   │  🔒  Treat scope decisions as binding once agreed                    │
@@ -398,7 +398,7 @@ The most useful framing: **Moniz-Lewis et al. (2025)** — real promise for equi
 | Ghetti et al. | 2022 | Music therapy for people with SUD | *Cochrane Database* | 🔴 II | ✅ Verify |
 | Hohmann et al. | 2017 | Effects of MT and MBIs in SUD treatment | *PLOS ONE* | 🟣🔴 I·II | ✅ Verify |
 | Megranahan & Lynskey | 2018 | Do creative arts therapies reduce misuse? | *Arts in Psychotherapy* | 🟡 III | ✅ Verify |
-| Silverman et al. | 2023 | Music as a cue for substance craving | *TBC* | 🔴 II | ⚠️ **UNVERIFIED** |
+| Silverman et al. | 2023 | Music-induced substance craving | *Musicae Scientiae* 27(1) | 🔴 II | ✅ Verified (DOI) |
 | Moniz-Lewis et al. | 2025 | AI in alcohol research and treatment | *Alcohol Research: CR* | 🟢⚖️ IV·V | ✅ Verify |
 | Giorgi et al. | 2024 | Generative AI responses to drug questions | *Psychiatry Research* | 🟢 IV | ✅ Verify |
 | Heinz et al. | 2025 | EMA + deep learning for opioid prediction | *JSUAT* | 🔴🟢 II·IV | ✅ Verify |
