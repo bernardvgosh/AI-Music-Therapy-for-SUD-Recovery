@@ -376,7 +376,7 @@ The most useful framing: **Moniz-Lewis et al. (2025)** — real promise for equi
 │
 ├── 📘  SUD_Protocol_Skeleton.docx             ← Protocol skeleton (Phase 1 output)
 ├── 🤖  AI_Dimension_Expansion.docx            ← EMA, gamification, wearables, JITAIs
-├── 📊  Project_Synthesis_AI_Music_Therapy_AUD.docx
+├── 📊  Project_Synthesis_AI_Music_Therapy_SUD.docx
 ├── 📱  Cadence_Web_App_Concept.docx           ← Cadence recovery app concept
 ├── 🗓️  Research_Tracker_8_Weeks.docx          ← 8-week milestone tracker
 │
