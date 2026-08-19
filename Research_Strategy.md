@@ -139,11 +139,11 @@ These are standing instructions for any drafting done for this project, by you o
 
 These are starting points identified during scoping, not a complete bibliography. Verify and expand each against the primary record.
 
-- Ghetti, C., Chen, X.-J., Brenner, A. K., Hakvoort, L. G., Lien, L., Fachner, J., et al. (2022). Music therapy for people with substance use disorders. *Cochrane Database of Systematic Reviews*, 5: CD012576.
+- Ghetti, C., Chen, X.-J., Brenner, A. K., Hakvoort, L. G., Lien, L., Fachner, J., & Gold, C. (2022). Music therapy for people with substance use disorders. *Cochrane Database of Systematic Reviews*, 2022(5): CD012576. https://doi.org/10.1002/14651858.CD012576.pub3 *(Verified against Cochrane Library record.)*
 - Hohmann, L., Bradt, J., Stegemann, T., & Koelsch, S. (2017). Effects of music therapy and music-based interventions in the treatment of substance use disorders: A systematic review. *PLOS ONE*, 12(11): e0187363.
 - Megranahan, K., & Lynskey, M. T. (2018). Do creative arts therapies reduce substance misuse? A systematic review. *The Arts in Psychotherapy*, 57, 50–58.
 - Silverman, M. J., Bourdaghs, S., Abbazio, J., & Riegelman, A. (2023). A systematic review of music-induced substance craving. *Musicae Scientiae*, 27(1). https://doi.org/10.1177/10298649211030314 *(Page range to confirm against publisher record before final submission.)*
-- Moniz-Lewis, D. I. K., Kirouac, M., McCool, M. W., Schwebel, F. J., & Witkiewitz, K. (2025). Perspective on using artificial intelligence in alcohol research and treatment: Opportunities and ethical considerations. *Alcohol Research: Current Reviews*, 45(1).
+- Moniz-Lewis, D. I. K., Kirouac, M., McCool, M. W., Schwebel, F. J., & Witkiewitz, K. (2025). Perspective on using artificial intelligence in alcohol research and treatment: Opportunities and ethical considerations. *Alcohol Research: Current Reviews*, 45(1): 12. https://doi.org/10.35946/arcr.v45.1.12 *(Verified against PMC/ARCR record.)*
 - Giorgi, S., Isman, K., Liu, T., Fried, Z., Sedoc, J., & Curtis, B. (2024). Evaluating generative AI responses to real-world drug-related questions. *Psychiatry Research*, 339: 116058.
 - Heinz, M. V., et al. (2025). A longitudinal observational study with ecological momentary assessment and deep learning to predict non-prescribed opioid use, treatment retention, and medication nonadherence among persons receiving medication treatment for opioid use disorder. *Journal of Substance Use and Addiction Treatment*, 173: 209685.
 - De Freitas, J., & Cohen, I. G. (2024). The health risks of generative AI-based wellness apps. *Nature Medicine*.
