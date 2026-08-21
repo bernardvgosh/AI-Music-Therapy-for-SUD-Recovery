@@ -314,8 +314,7 @@ The most useful framing: **Moniz-Lewis et al. (2025)** — real promise for equi
   ┌──────────────────────────────────────────────────────────────────────┐
   │  🟠  PHASE 1 · Protocol & Supervisor Sign-Off      ◄ YOU ARE HERE   │
   ├──────────────────────────────────────────────────────────────────────┤
-  │  ✅  Silverman et al. (2023) — DOI verified; confirm page range      │
-  │  ✅  Ghetti (2022) and Moniz-Lewis (2025) — DOIs verified            │
+  │  ✅  All eight key citations — DOIs verified, page ranges confirmed  │
   │  📋  Present protocol skeleton for supervisor sign-off               │
   │  🔒  Treat scope decisions as binding once agreed                    │
   └──────────────────────────────────────────────────────────────────────┘
@@ -323,10 +322,12 @@ The most useful framing: **Moniz-Lewis et al. (2025)** — real promise for equi
   ┌──────────────────────────────────────────────────────────────────────┐
   │  🔵  PHASE 2 · Search Strings, Criteria & Registration              │
   ├──────────────────────────────────────────────────────────────────────┤
-  │  🔍  Build three Boolean strings: music-only / AI-only / AI+music    │
-  │  📏  Lock inclusion/exclusion criteria                               │
-  │  🛠️  Select appraisal tools (RoB 2, AMSTAR-2, CASP)                 │
-  │  📝  Register on PROSPERO where eligible                             │
+  │  ✅  Three Boolean strings drafted: music-only / AI-only / AI+music  │
+  │  ✅  Eligibility criteria (PCC) drafted, incl. designs & date range  │
+  │  ✅  Appraisal tools selected (RoB 2, AMSTAR-2, CASP)                │
+  │  📋  Supervisor sign-off on search strategy (see Phase2_ doc)        │
+  │  📝  PROSPERO ineligible for scoping reviews — OSF registration      │
+  │      planned instead                                                 │
   └──────────────────────────────────────────────────────────────────────┘
 
   ┌──────────────────────────────────────────────────────────────────────┐
@@ -373,6 +374,7 @@ The most useful framing: **Moniz-Lewis et al. (2025)** — real promise for equi
 │
 ├── 📝  Research_Strategy.md                   ← Full strategy, plan & working instructions
 ├── 📝  Research_Strategy_AI_Music_Therapy_SUD.md
+├── 🔍  Phase2_Search_Strategy_and_Eligibility.md ← Boolean strings & PCC criteria (Phase 2 output)
 │
 ├── 📘  SUD_Protocol_Skeleton.docx             ← Protocol skeleton (Phase 1 output)
 ├── 🤖  AI_Dimension_Expansion.docx            ← EMA, gamification, wearables, JITAIs
