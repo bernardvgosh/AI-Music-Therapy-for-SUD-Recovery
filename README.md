@@ -333,15 +333,17 @@ The most useful framing: **Moniz-Lewis et al. (2025)** — real promise for equi
   ┌──────────────────────────────────────────────────────────────────────┐
   │  🟣  PHASE 3 · Search, Screening & Appraisal                        │
   ├──────────────────────────────────────────────────────────────────────┤
+  │  ✅  Flow-diagram template ready (3-search intake structure)         │
   │  🗄️  Run searches across nine databases; deduplicate                 │
   │  🔎  Two-stage screening: title/abstract → full-text                 │
-  │  📊  Produce PRISMA flow diagram                                     │
+  │  📊  Fill in PRISMA-ScR flow diagram counts                          │
   │  👨‍🏫  Second supervisor checkpoint                                    │
   └──────────────────────────────────────────────────────────────────────┘
 
   ┌──────────────────────────────────────────────────────────────────────┐
   │  🟡  PHASE 4 · Synthesis & Framework Construction                   │
   ├──────────────────────────────────────────────────────────────────────┤
+  │  ✅  Pillar-keyed evidence extraction matrix ready                   │
   │  🏗️  Synthesise pillar by pillar, then across pillars                │
   │  🏷️  Tag every finding: established / emerging / speculative         │
   │  🧩  Craving-cue paradox as central finding, not caveat             │
@@ -375,6 +377,8 @@ The most useful framing: **Moniz-Lewis et al. (2025)** — real promise for equi
 ├── 📝  Research_Strategy.md                   ← Full strategy, plan & working instructions
 ├── 📝  Research_Strategy_AI_Music_Therapy_SUD.md
 ├── 🔍  Phase2_Search_Strategy_and_Eligibility.md ← Boolean strings & PCC criteria (Phase 2 output)
+├── 📈  Phase3_PRISMA_ScR_Flow_Diagram_Template.md ← Screening flow template (Phase 3 output)
+├── 🧮  Phase4_Evidence_Extraction_Matrix.md   ← Pillar-keyed charting matrix (Phase 4 output)
 │
 ├── 📘  SUD_Protocol_Skeleton.docx             ← Protocol skeleton (Phase 1 output)
 ├── 🤖  AI_Dimension_Expansion.docx            ← EMA, gamification, wearables, JITAIs
