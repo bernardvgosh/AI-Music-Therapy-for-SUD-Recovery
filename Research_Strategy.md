@@ -52,7 +52,7 @@ A crucial terminological distinction must be maintained throughout: music therap
 
 The most authoritative synthesis on the clinical side is the Cochrane review by Ghetti and colleagues (2022), which pooled 21 randomised trials (around 1,984 participants) and reported moderate-certainty evidence of a medium-sized effect favouring music therapy added to standard care over standard care alone for substance craving. This is the single strongest evidence point in the field and the natural anchor for the craving pillar — though "moderate certainty" should be reported honestly, not inflated. Earlier and adjacent reviews (Hohmann et al., 2017; Megranahan & Lynskey, 2018) found beneficial effects on emotional and motivational outcomes, treatment participation, and readiness to change, but with substantial inconsistency across studies, heavy reliance on single-session designs, and a near-absence of longitudinal trials. The honest summary is: promising and improving, but heterogeneous and immature.
 
-The decisive caveat for this study is that music is not unambiguously protective. A systematic review by Silverman, Bourdaghs, Abbazio, and Riegelman (2023) found that music can induce craving for substances including alcohol, cannabis, and nicotine by acting as a contextual cue, and qualitative work confirms that people in recovery are often acutely aware of songs and genres that function as drug cues. *(Citation verified: DOI confirmed against publisher record. Page range should be double-checked against the SAGE abstract page directly before final submission.)* This means the craving pillar cannot be framed simply as "music reduces craving"; the more accurate framing is that music is a powerful affective and associative stimulus whose effect on craving is context-, person-, and content-dependent, and that therapeutic skill lies partly in working with that ambivalence rather than assuming benefit.
+The decisive caveat for this study is that music is not unambiguously protective. A systematic review by Silverman, Bourdaghs, Abbazio, and Riegelman (2023) found that music can induce craving for substances including alcohol, cannabis, and nicotine by acting as a contextual cue, and qualitative work confirms that people in recovery are often acutely aware of songs and genres that function as drug cues. *(Citation verified against the publisher record — DOI, authors, journal, and volume/issue confirmed.)* This means the craving pillar cannot be framed simply as "music reduces craving"; the more accurate framing is that music is a powerful affective and associative stimulus whose effect on craving is context-, person-, and content-dependent, and that therapeutic skill lies partly in working with that ambivalence rather than assuming benefit.
 
 ### 4.2 AI in SUD prevention, treatment, and recovery
 
@@ -107,13 +107,13 @@ Ethics is not a closing chapter; it is a design constraint that should shape the
 
 A sequence rather than a calendar; map it to your own timeline and milestones with your supervisor.
 
-- **Scoping and framing.** Lock the research questions, choose the design (Section 5), and read the orienting sources (the Cochrane MT review; a major AI-in-SUD perspective; an affective-computing-for-mental-health review). Output: a one-page protocol and refined questions.
-- **Protocol and registration.** Finalise search strings, inclusion/exclusion criteria, and appraisal tools; register the protocol if eligible. Output: written, version-controlled protocol.
-- **Search and screening.** Run searches across all databases, deduplicate, screen against criteria, log decisions. Output: PRISMA flow diagram and screening log.
-- **Appraisal and extraction.** Apply the appraisal tools; extract into a structured matrix keyed to the four pillars, with strength-of-evidence tags. Output: evidence table.
-- **Synthesis.** Analyse pillar by pillar, then across pillars; surface mechanisms, gaps, contradictions (notably the craving-cue paradox), and ethical themes. Output: synthesis notes and, if pursuing Option B, a draft framework.
-- **Writing.** Draft against the structure in Section 9; integrate ethics throughout rather than quarantining it. Output: full draft.
-- **Revision and verification.** Re-check every empirical claim against its primary source; confirm terminology precision; stress-test claims for overstatement. Output: verified final draft.
+- **Scoping and framing (Phase 1 — content complete).** Research questions locked; design chosen (Section 5); orienting sources read and all eight key citations verified. Output: `SUD_Protocol_Skeleton.docx`, ready for supervisor sign-off.
+- **Protocol and registration (Phase 2 — drafted).** Search strings, inclusion/exclusion criteria, and appraisal tools finalised. Output: `Phase2_Search_Strategy_and_Eligibility.md`. Still pending: supervisor sign-off, and confirmation of OSF registration as the PROSPERO substitute.
+- **Search and screening (Phase 3 — template ready, not yet run).** Run searches across all databases, deduplicate, screen against criteria, log decisions. Output: `Phase3_PRISMA_ScR_Flow_Diagram_Template.md` (counts to be filled in once searches run) and a screening log.
+- **Appraisal and extraction (Phase 4 — template ready, not yet populated).** Apply the appraisal tools; extract into a structured matrix keyed to the four pillars, with strength-of-evidence tags. Output: `Phase4_Evidence_Extraction_Matrix.md`.
+- **Synthesis (Phase 4, continued).** Analyse pillar by pillar, then across pillars; surface mechanisms, gaps, contradictions (notably the craving-cue paradox), and ethical themes. Output: synthesis notes and a draft conceptual framework.
+- **Writing (Phase 5).** Draft against the structure in Section 9; integrate ethics throughout rather than quarantining it. Output: full draft.
+- **Revision and verification (Phase 5, continued).** Re-check every empirical claim against its primary source; confirm terminology precision; stress-test claims for overstatement. Output: verified final draft.
 
 ## 9. Instructions for written output
 
@@ -128,12 +128,17 @@ These are standing instructions for any drafting done for this project, by you o
 - **Verify before asserting.** Any empirical or factual claim about a current tool, study, or statistic must be checked against an up-to-date primary source, not reproduced from memory or from this document's orienting summaries.
 - **Citation hygiene.** Cite primary sources, paraphrase rather than quote, and keep a single reference style consistent with your institution's requirement.
 
-## 10. Risks and open questions to resolve early
+## 10. Risks and open questions — resolved and remaining
 
-- **Is the intersection literature large enough?** Studies that combine both AI and music-based intervention in SUD specifically may be very few. Decide early whether the study synthesises the two halves conceptually (drawing on each literature separately) or insists on the intersection (which may be too thin to support a review).
-- **Which design?** (Section 5) — settle before searching.
-- **Severity and substance specificity.** Will the study span all SUDs or focus (e.g., opioid or alcohol use disorder, where the AI literature is densest)? Narrowing improves rigour.
-- **Where does primary data sit?** If none, say so and frame primary work as future research; if some, secure ethics approval and clinical collaboration first.
+The three scope-defining questions below were open during scoping and are now **locked decisions** (see the methodological design table and §5): a scoping review (Option A) synthesising the two literatures separately, across the full SUD population with AUD receiving particular attention. They are recorded here for the audit trail, not as active questions — do not reopen them without a deliberate, supervisor-agreed reason.
+
+- ~~Is the intersection literature large enough?~~ **Resolved:** the study synthesises AI and music-based intervention literatures separately against the shared four-pillar spine rather than insisting on the (expected-thin) three-way intersection; the size of that intersection is reported as a finding.
+- ~~Which design?~~ **Resolved:** Option A (scoping review, PRISMA-ScR) culminating in a proposed conceptual framework (Option B), with primary empirical work (Option C) reserved for future research.
+- ~~Severity and substance specificity?~~ **Resolved:** SUD-wide scope, not AUD-anchored; AUD receives particular attention as the sub-population with the densest AI literature, with every substance-specific restriction flagged on use.
+
+**Still genuinely open:**
+- **Where does primary data sit?** No primary data collection is planned for this thesis; primary empirical work (Option C) is framed as future research. If this changes, full ethics-board/IRB approval and clinical collaboration must be secured before any recruitment.
+- **PROSPERO vs. OSF registration.** PROSPERO does not accept scoping-review protocols; OSF Registries is the planned substitute (see `Phase2_Search_Strategy_and_Eligibility.md` §5) — pending supervisor confirmation this is acceptable to the institution.
 
 ## Key orienting references
 
@@ -142,7 +147,7 @@ These are starting points identified during scoping, not a complete bibliography
 - Ghetti, C., Chen, X.-J., Brenner, A. K., Hakvoort, L. G., Lien, L., Fachner, J., & Gold, C. (2022). Music therapy for people with substance use disorders. *Cochrane Database of Systematic Reviews*, 2022(5): CD012576. https://doi.org/10.1002/14651858.CD012576.pub3 *(Verified against Cochrane Library record.)*
 - Hohmann, L., Bradt, J., Stegemann, T., & Koelsch, S. (2017). Effects of music therapy and music-based interventions in the treatment of substance use disorders: A systematic review. *PLOS ONE*, 12(11): e0187363. https://doi.org/10.1371/journal.pone.0187363 *(Verified against PLOS ONE record.)*
 - Megranahan, K., & Lynskey, M. T. (2018). Do creative arts therapies reduce substance misuse? A systematic review. *The Arts in Psychotherapy*, 57, 50–58. https://doi.org/10.1016/j.aip.2017.10.005 *(Verified against ScienceDirect record.)*
-- Silverman, M. J., Bourdaghs, S., Abbazio, J., & Riegelman, A. (2023). A systematic review of music-induced substance craving. *Musicae Scientiae*, 27(1). https://doi.org/10.1177/10298649211030314 *(Page range to confirm against publisher record before final submission.)*
+- Silverman, M. J., Bourdaghs, S., Abbazio, J., & Riegelman, A. (2023). A systematic review of music-induced substance craving. *Musicae Scientiae*, 27(1). https://doi.org/10.1177/10298649211030314 *(Verified against publisher record.)*
 - Moniz-Lewis, D. I. K., Kirouac, M., McCool, M. W., Schwebel, F. J., & Witkiewitz, K. (2025). Perspective on using artificial intelligence in alcohol research and treatment: Opportunities and ethical considerations. *Alcohol Research: Current Reviews*, 45(1): 12. https://doi.org/10.35946/arcr.v45.1.12 *(Verified against PMC/ARCR record.)*
 - Giorgi, S., Isman, K., Liu, T., Fried, Z., Sedoc, J., & Curtis, B. (2024). Evaluating generative AI responses to real-world drug-related questions. *Psychiatry Research*, 339: 116058. https://doi.org/10.1016/j.psychres.2024.116058 *(Verified against ScienceDirect/PMC record.)*
 - Heinz, M. V., Price, G. D., Singh, A., Bhattacharya, S., Chen, C.-H., Asyyed, A., Does, M. B., Hassanpour, S., Hichborn, E., Kotz, D., Lambert-Harris, C. A., Li, Z., McLeman, B., Mishra, V., Stanger, C., Subramaniam, G., Wu, W., Campbell, C. I., Marsch, L. A., & Jacobson, N. C. (2025). A longitudinal observational study with ecological momentary assessment and deep learning to predict non-prescribed opioid use, treatment retention, and medication nonadherence among persons receiving medication treatment for opioid use disorder. *Journal of Substance Use and Addiction Treatment*, 173: 209685. https://doi.org/10.1016/j.josat.2025.209685 *(Verified against Dartmouth Digital Commons record; full author list added.)*

@@ -12,7 +12,7 @@ It is a **template with placeholder counts (`n = ___`)** — nothing here is inv
 
 ## 0. Why three parallel intakes
 
-Per `Phase2_Search_Strategy_and_Eligibility.md` §2, this review runs **three separate Boolean searches** — music-only, AI-only, and AI-plus-music — rather than one combined string, because the three-way intersection is expected to be thin (a locked design decision; see `Research_Strategy_AI_Music_Therapy_SUD.md` §5). The standard PRISMA-ScR diagram assumes a single intake stream; this template extends it with three parallel identification columns that converge at deduplication, so the eventual flow diagram stays honest about how many records came from each search rather than obscuring it in one merged number.
+Per `Phase2_Search_Strategy_and_Eligibility.md` §2, this review runs **three separate Boolean searches** — music-only, AI-only, and AI-plus-music — rather than one combined string, because the three-way intersection is expected to be thin (a locked design decision; see `Research_Strategy.md` §5). The standard PRISMA-ScR diagram assumes a single intake stream; this template extends it with three parallel identification columns that converge at deduplication, so the eventual flow diagram stays honest about how many records came from each search rather than obscuring it in one merged number.
 
 ---
 

@@ -4,7 +4,7 @@
 **Researcher:** Bernard G. · **Prepared:** 21 August 2026 · **Status:** draft for supervisor sign-off
 **Method:** PRISMA-ScR scoping review
 
-This document finalises the search strings, eligibility criteria, and appraisal plan sketched in `Research_Strategy_AI_Music_Therapy_SUD.md` §6, so they are ready to run once the protocol skeleton is signed off. It does not reopen any locked decision from Phase 1 — population scope, synthesis approach, and review design are inherited unchanged.
+This document finalises the search strings, eligibility criteria, and appraisal plan sketched in `Research_Strategy.md` §6, so they are ready to run once the protocol skeleton is signed off. It does not reopen any locked decision from Phase 1 — population scope, synthesis approach, and review design are inherited unchanged.
 
 ---
 

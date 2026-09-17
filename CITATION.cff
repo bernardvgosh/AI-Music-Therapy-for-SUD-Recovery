@@ -2,17 +2,20 @@ cff-version: 1.2.0
 message: "This is in-progress research. Please treat any citation as referring to a draft, not a peer-reviewed source."
 title: "Exploring the Use of Artificial Intelligence and Music-Based Therapy in Supporting Individuals with Drug Addiction and Substance Use Disorder"
 authors:
-  - family-names: "PLACEHOLDER — your surname"
+  - family-names: "Godwin Bernard"
     given-names: "Bernard"
     # orcid: "https://orcid.org/0000-0000-0000-0000"   # add if you have one
 abstract: >-
   A scoping review culminating in a proposed conceptual framework, reported
   against PRISMA-ScR, examining how artificial intelligence tools and
   music-based therapeutic interventions can function as adjuncts to
-  professional treatment for people with substance use disorder. The work is
-  anchored in alcohol use disorder, admits broader SUD evidence where flagged,
-  and is organised around four pillars: emotional regulation, craving
-  reduction, self-expression, and personalised recovery support.
+  professional treatment for people with a substance use disorder (SUD). The
+  review scope is SUD-wide, not AUD-anchored; alcohol use disorder receives
+  particular attention as the sub-population where the AI literature is
+  densest, and broader SUD evidence is admitted and flagged where
+  substance-specific work is absent. The work is organised around four
+  pillars: emotional regulation, craving reduction, self-expression, and
+  personalised recovery support.
 keywords:
   - substance use disorder
   - alcohol use disorder

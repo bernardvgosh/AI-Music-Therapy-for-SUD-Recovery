@@ -4,7 +4,7 @@
 **Researcher:** Bernard G. · **Prepared:** 21 August 2026 · **Status:** template — to be populated during data charting (Phase 3→4 handoff)
 **Method:** PRISMA-ScR data charting (Item 10–11), keyed to the four-pillar conceptual framework
 
-This document operationalises `Research_Strategy_AI_Music_Therapy_SUD.md` §2's instruction — *"state which pillar(s) [a source] addresses, which mechanism is proposed, what outcome is measured, and how strong the evidence for that link is"* — into a structured charting form. Complete one row per included source (from `Phase3_PRISMA_ScR_Flow_Diagram_Template.md` §4) as full-text appraisal happens, rather than retrospectively, so the synthesis in Phase 4 draws on a consistent record rather than re-reading papers from memory.
+This document operationalises `Research_Strategy.md` §2's instruction — *"state which pillar(s) [a source] addresses, which mechanism is proposed, what outcome is measured, and how strong the evidence for that link is"* — into a structured charting form. Complete one row per included source (from `Phase3_PRISMA_ScR_Flow_Diagram_Template.md` §4) as full-text appraisal happens, rather than retrospectively, so the synthesis in Phase 4 draws on a consistent record rather than re-reading papers from memory.
 
 ---
 
@@ -70,6 +70,6 @@ A second, smaller table for the synthesis chapter — one row per pillar, summar
 
 ## 5. Handoff notes
 
-- This matrix is the direct input to the narrative synthesis described in `Research_Strategy_AI_Music_Therapy_SUD.md` §8 ("Synthesise pillar by pillar, then across pillars, surfacing mechanisms, gaps, and contradictions").
+- This matrix is the direct input to the narrative synthesis described in `Research_Strategy.md` §8 ("Synthesise pillar by pillar, then across pillars, surfacing mechanisms, gaps, and contradictions").
 - Keep this file (or its spreadsheet counterpart) under version control alongside the PRISMA-ScR flow diagram — together they are the full audit trail from search to synthesis that a thesis examiner or supervisor may ask to see.
 - Do not skip columns 9–11 for AI sources even when the answer is "unclear" — an honest "unclear" is itself a finding about the maturity of the field, consistent with the evidence-grading philosophy in Research_Strategy §6.

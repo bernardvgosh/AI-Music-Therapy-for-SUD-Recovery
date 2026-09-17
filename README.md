@@ -15,7 +15,7 @@
 
 <br/>
 
-> 🚧 **Not peer-reviewed.** Citations are being verified against primary sources. Do not cite as confirmed.
+> 🚧 **Not peer-reviewed.** This is in-progress thesis research, pending supervisor sign-off and full literature screening. All eight key orienting citations have been verified against primary sources (DOIs confirmed) — see the reference table below — but the review itself is not yet complete. Do not cite the findings as confirmed.
 
 > 💊 **Potentiating, not replacing.** AI and music-based interventions are examined here for their potential to **enhance and extend the effect of FDA-approved medications** (buprenorphine, naltrexone, methadone, acamprosate) and psychosocial treatment — by addressing what medication alone cannot: emotional regulation, craving triggers, motivation, identity, and between-session support. They are never substitutes for clinical care.
 
@@ -375,7 +375,6 @@ The most useful framing: **Moniz-Lewis et al. (2025)** — real promise for equi
 ├── 📋  CITATION.cff                           ← GitHub "Cite this repository"
 │
 ├── 📝  Research_Strategy.md                   ← Full strategy, plan & working instructions
-├── 📝  Research_Strategy_AI_Music_Therapy_SUD.md
 ├── 🔍  Phase2_Search_Strategy_and_Eligibility.md ← Boolean strings & PCC criteria (Phase 2 output)
 ├── 📈  Phase3_PRISMA_ScR_Flow_Diagram_Template.md ← Screening flow template (Phase 3 output)
 ├── 🧮  Phase4_Evidence_Extraction_Matrix.md   ← Pillar-keyed charting matrix (Phase 4 output)
@@ -451,7 +450,7 @@ A Creative Commons option may be added pending institutional IP guidance.
 
 <br/>
 
-**👤 Researcher:** Bernard G. &nbsp;·&nbsp; **📅 Prepared:** June 2026  
+**👤 Researcher:** Bernard G. &nbsp;·&nbsp; **📅 Prepared:** June 2026 &nbsp;·&nbsp; **Last updated:** September 2026  
 **🔬 Method:** PRISMA-ScR Scoping Review &nbsp;·&nbsp; **🔒 Design:** Locked
 
 <br/>
